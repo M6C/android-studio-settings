@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.net-courrier.extra.laposte.fr" />
+          <token>dfccdf9fdf93dfcbdf9ddfcedfc8df9edf9cdfccdfcbdf99dfc8df9fdf98df9fdfcfdfc9dfc8df9ddf9adf99df9adf9edf9edf93df99df9fdf98df9adfc8df92df9edf92df9adf93dfccdfc8df99dfc9</token>
+          <option name="name" value="sonarqube.net-courrier.extra.laposte.fr" />
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
