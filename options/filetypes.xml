@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="db" type="Android Room SQL" />
+      <mapping pattern="jenkinsfile_ok2" type="PLAIN_TEXT" />
+      <mapping pattern="jenkisfile_ok" type="PLAIN_TEXT" />
+      <mapping pattern="list_item_for_swipe_minimal" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
