@@ -11,8 +11,11 @@
     <knownExternalComponentSources>
       <item value="Android SDK" />
     </knownExternalComponentSources>
-    <option name="LAST_BUILD_CHECKED" value="AI-191.6707.61.35.5529924" />
-    <option name="LAST_TIME_CHECKED" value="1558510145183" />
+    <option name="LAST_BUILD_CHECKED" value="AI-191.7479.19.35.5717577" />
+    <option name="LAST_TIME_CHECKED" value="1576714091745" />
+    <pluginHosts>
+      <item value="https://repositories.net-courrier.extra.laposte.fr/repository/raw-cdd-android/plugins/updatePlugins.xml" />
+    </pluginHosts>
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
   </component>
 </application>
